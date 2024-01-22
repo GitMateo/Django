@@ -7,11 +7,11 @@ Aplikacja powinna mieć możliwość:​
 
 - [x] Wyświetlenie listy zakupów​ 
 
-- [x] Dodanie produktu listy​ [x]
+- [x] Dodanie produktu listy​ 
 
-- [x] Edycji produktu – dodanie mechanizmu, checkboxa (kupiono, nie kupiono)​ [x]
+- [x] Edycji produktu – dodanie mechanizmu, checkboxa (kupiono, nie kupiono)​ 
 
-- [x] Usunięcie produktu z listy​ [x]
+- [x] Usunięcie produktu z listy​ 
 
 - [x] Dane powinny być zapisane w bazie danych​  
 
