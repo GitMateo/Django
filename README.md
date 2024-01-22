@@ -5,15 +5,15 @@ Zadaniem było przygotować aplikacje w modelu MVC listy zakupów​
 
 Aplikacja powinna mieć możliwość:​
 
--Wyświetlenie listy zakupów​ [x]
+- [x] Wyświetlenie listy zakupów​ 
 
--Dodanie produktu listy​ [x]
+- [x] Dodanie produktu listy​ [x]
 
--Edycji produktu – dodanie mechanizmu, checkboxa (kupiono, nie kupiono)​ [x]
+- [x] Edycji produktu – dodanie mechanizmu, checkboxa (kupiono, nie kupiono)​ [x]
 
--Usunięcie produktu z listy​ [x]
+- [x] Usunięcie produktu z listy​ [x]
 
--Dane powinny być zapisane w bazie danych​  [x] 
+- [x] Dane powinny być zapisane w bazie danych​  
 
 > [!NOTE]
 > sqlite3
